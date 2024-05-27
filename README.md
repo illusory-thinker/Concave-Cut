@@ -8,7 +8,7 @@ Files demo.py and plot_demo.py are the python files to show the results and figu
 
 File requirements.txt lists all the required python libraries and their version.
 
-Files cppfuns$\_$.pyx and cppfuns$\_$.pyd are the cython files to communicate between cpp and python.
+Files cppfuns\_.pyx and cppfuns\_.pyd are the cython files to communicate between cpp and python.
 
 Files cppfuns.cpp, cppfuns.h are the cpp related files used to accelerate Half-Cut and directory eigen3 is  a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 
